@@ -8,7 +8,7 @@ public class JTabbedPaneDemo
    { 
       JTabbedPaneFrame tabbedPaneFrame = new JTabbedPaneFrame();  
       tabbedPaneFrame.setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
-      tabbedPaneFrame.setSize( 900, 800 ); // set frame size
+      tabbedPaneFrame.setSize( 1280, 720 ); // set frame size
       tabbedPaneFrame.setVisible( true ); // display frame
    } // end main
 } // end class JTabbedPaneDemo
